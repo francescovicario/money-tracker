@@ -2,7 +2,8 @@
 
 <div align='center'>
 
-![](src/img/tech-news-demo.gif) 
+![](public/demo.gif) 
+
 [Demo](https://francescovicario.github.io/money-tracker/)</div>
 
 In this project I wanted to create a simple and minimal way to manage personal finances, essential in order to save money and increase own wealth in the long term.
