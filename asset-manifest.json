@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/money-tracker/static/js/main.e9e66000.js",
+    "index.html": "/money-tracker/index.html",
+    "main.e9e66000.js.map": "/money-tracker/static/js/main.e9e66000.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e9e66000.js"
+  ]
+}
